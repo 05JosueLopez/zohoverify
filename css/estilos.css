@@ -20,12 +20,7 @@ h1
    -ms-transition: all 0.3s ease-in-out;
    -o-transition: all 0.3s ease-in-out;
 }
-h1:hover{
-    color: #f1f1f1;
-    font-size: 8rem;
-    cursor: pointer;
-    position: absolute;
-}
+
 body
 {
     background-color: #f1f1f1;
